@@ -18,5 +18,8 @@
     "url": "https://github.com/akhilbhumireddy/sow-backend/issues"
   },
   "homepage": "https://github.com/akhilbhumireddy/sow-backend#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
